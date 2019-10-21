@@ -3,7 +3,7 @@
 
 ### Designed by Muhammed Monis
 I am a student in Software Engineering Department from UIT(Usman Institute Of Technology).\
-My Interests are mostly in software archetecture designs plus designing the core using the free and open source RISC-V ISA\
+My Interests are mostly in archetecture designs plus designing the core using the free and open source RISC-V ISA\
 My work is mostly done in designing the core using the ISA of Risc V.
 
 ## First of all get started by Cloning this repository in your machine
