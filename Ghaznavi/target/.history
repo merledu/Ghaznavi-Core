@@ -1,0 +1,123 @@
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher control_decode
+test:run-Main datapath.Launcher control_decode
+test:runMain datapath.Launcher control_decode
+test:runMain datapath.Launcher ImmediateGeneration
+test:runMain datapath.Launcher control
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Jalr
+test:runMain datapath.Launcher PC
+test:runMain datapath.Launcher PC --backend-name PC
+test:runMain datapath.Launcher PC --backend-name verilator
+test:runMain datapath.Launcher InstructionMemory
+test:runMain datapath.Launcher InstructionMemory --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher PC
+test:runMain datapath.Launcher PC --backend-name verilator
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher InstructionMemory --backend-name verilator
+test:runMain datapath.Launcher PC
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher reg_32
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher ALU_control
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher ImmediateGeneration
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher ImmediateGeneration
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher ImmediateGeneration
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher LoadMemory
+test:runMain datapath.Launcher LoadMemory --backend-name verilator
+test:runMain datapath.Launcher LoadMemory
+test:runMain datapath.Launcher LoadMemory --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher LoadMemory --backend-name verilator
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher LoadMemory
+test:runMain datapath.Launcher LoadMemory --backend-name verilator
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher LoadMemory
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher LoadMemory --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher LoadMemory
+test:runMain datapath.Launcher Top --backend-name verilator
+sbt
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher Top 
+test:runMain datapath.Launcher Top --backend-name verilator
+test:runMain datapath.Launcher LoadMemory --backend-name verilator
+test:runMain datapath.Launcher DataMemory

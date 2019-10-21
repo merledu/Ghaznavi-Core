@@ -1,0 +1,10 @@
+[
+  {
+    "class":"firrtl.annotations.LoadMemoryAnnotation",
+    "target":"InstructionMemory.InstructionMemory.mem",
+    "fileName":"/home/monis/Desktop/abc.txt",
+    "hexOrBinary":{
+      "name":"h"
+    }
+  }
+]
